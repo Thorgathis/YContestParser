@@ -4,7 +4,7 @@
 
 1. Clone the repository: ```git clone https://github.com/Thorgathis/YContestParser.git```
 2. Navigate to the program directory: ```cd YContestParser```
-3. Install dependencies: ```pip install -r requirements.txt```
+3. Install [dependencies](https://github.com/Thorgathis/YContestParser/blob/main/requirements.txt): ```pip install -r requirements.txt```
 
 <details>
   <summary>Copy commands tree</summary>
